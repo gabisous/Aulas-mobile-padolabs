@@ -1,2 +1,2 @@
 # aulas-mobile-padolabs
-Aluno(a): Gabrielly
+Aluno(a): Gabrielly Alves
